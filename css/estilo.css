@@ -269,3 +269,10 @@ html, body {
     
 }
 
+@media screen and (max-height:550px) {
+    .importancia-detalhes-moda {
+        height: fit-content;
+        padding: 2em 0;
+    }
+}
+
